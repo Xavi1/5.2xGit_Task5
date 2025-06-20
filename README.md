@@ -17,10 +17,6 @@ Let's build a website and join the revolution!
 
 - 🕸🧑‍💻 If you have some code you want to contribute, either directly submit a pull request or create an issue first, so then we can discuss it and/or I can assign the issue to you.
 
-# Thanks in advance for your help! 😎 
-![HacktoberFest-img](https://imgs.search.brave.com/vBEPaEUeN06tzvPdpGjoCeabCuZdaf4eMq7VftbKttE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kb2lt/YWdlcy5ueWMzLmNk/bi5kaWdpdGFsb2Nl/YW5zcGFjZXMuY29t/LzAwMkJsb2cvMTEw/MHg2NDAlMjBIYWNr/dG9iZXIlMjBmZXN0/JTIwaGVhZGVyLnBu/Zw)
-
-
 ## Getting Started
 - Fork this repository(Click the Fork button in the top right of this page, click your profile image)
 - Clone your fork down to your local machine
